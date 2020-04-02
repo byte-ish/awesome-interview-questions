@@ -6,4 +6,6 @@
 - A link back to this list from yours, so users can discover more lists, would be appreciated. 
 - Make sure you read the [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interviews/blob/master/contributing.md) before submitting a request for your list to be added here.
 
-Thanks for being awesome!
+Thanks a lot for being awesome!
+
+
